@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosCSharp06ComandosRepeticao", "ExerciciosCSharp06ComandosRepeticao\ExerciciosCSharp06ComandosRepeticao.csproj", "{72308A90-186E-4688-9C2B-32F0C466A506}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicios", "Exercicios\Exercicios.csproj", "{431D4546-4B35-4DE9-9662-E03D70AF1377}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72308A90-186E-4688-9C2B-32F0C466A506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72308A90-186E-4688-9C2B-32F0C466A506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72308A90-186E-4688-9C2B-32F0C466A506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72308A90-186E-4688-9C2B-32F0C466A506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{431D4546-4B35-4DE9-9662-E03D70AF1377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{431D4546-4B35-4DE9-9662-E03D70AF1377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{431D4546-4B35-4DE9-9662-E03D70AF1377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{431D4546-4B35-4DE9-9662-E03D70AF1377}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A15CA714-99ED-4264-B3CF-FA3D1FCF9456}
+	EndGlobalSection
+EndGlobal
