@@ -30,6 +30,7 @@ namespace Exercicios
                 catch(Exception erro)
                 {
                     WriteLine($"Um erro aconteceu: {erro}");
+                    break;
                 }
             }
             WriteLine($"O resultado da soma dos 10 números é: {resultado}");

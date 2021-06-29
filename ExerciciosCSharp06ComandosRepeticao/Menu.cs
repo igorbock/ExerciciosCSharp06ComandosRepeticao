@@ -12,6 +12,9 @@ namespace ExerciciosCSharp06ComandosRepeticao
             WriteLine("3 - Contagem regressiva");
             WriteLine("4 - Incremento de 1000 em 1000");
             WriteLine("5 - Soma de 10 números");
+            WriteLine("6 - Média de 10 inteiros");
+            WriteLine("8 - Encontre o maior e menor valor");
+            WriteLine("9 - Números impares até valor X");
         }
         public static void Voltar()
         {

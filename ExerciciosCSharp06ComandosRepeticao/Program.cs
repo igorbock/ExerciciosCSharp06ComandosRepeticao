@@ -54,6 +54,27 @@ namespace ExerciciosCSharp06ComandosRepeticao
                     Voltar();
                     ReadLine();
                 }
+                if (opcao.Equals("6"))
+                {
+                    Clear();
+                    new Exercicio06().Media10Inteiros();
+                    Voltar();
+                    ReadLine();
+                }
+                if (opcao.Equals("8"))
+                {
+                    Clear();
+                    new Exercicio08().MaiorMenorValor();
+                    Voltar();
+                    ReadLine();
+                }
+                if (opcao.Equals("9"))
+                {
+                    Clear();
+                    new Exercicio09().NImpares();
+                    Voltar();
+                    ReadLine();
+                }
                 Clear();
             }
             while (!opcao.ToUpper().Equals("SAIR"));
